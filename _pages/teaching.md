@@ -20,6 +20,7 @@ I have been teaching courses as a sessional instructor and term lecturer in the 
 
 ## Courses
 
+### School of Interactive Arts & Technology, Simon Fraser University, Sessional Instructor & Term Lecturer
 | Course   | Course Title                        | Terms                                                         | Avg. # of students | Description                                           |
 |----------|-------------------------------------|---------------------------------------------------------------|--------------------|-------------------------------------------------------|
 | IAT 206W | Media Across Cultures               | Fall 2017                                                     | 96                 | Weekly lectures                                       |
@@ -31,6 +32,14 @@ I have been teaching courses as a sessional instructor and term lecturer in the 
 | IAT 343  | Animation                           | Spring 2015, Summer 2015, Spring 2016, Summer 2017            | 48                 | Weekly lectures and labs                              |
 | IAT 351  | Advanced Human-Computer Interaction | Fall 2014                                                     | 40                 | Weekly lectures                                       |
 | IAT 432  | Design Evaluation                   | Fall 2015, Spring 2015, Fall 2016                             | 48                 | Weekly lectures and labs                              |
+
+### Internet Production diploma program, Vancouver Island University, Instructor
+| Course   | Course Title                      | Terms                | Avg. # of students | Description                                   |
+|----------|-----------------------------------|----------------------|--------------------|-----------------------------------------------|
+| IPRO 240 | Internet Scripting I              | Fall 2007, Fall 2008 | 20                 | Blended workshop / lecture format to a cohort |
+| IPRO 245 | Core Internet Technologies        | Fall 2008            | 20                 | Blended workshop / lecture format to a cohort |
+| IPRO 245 | Internet Applications Development | Spring 2008, 2009    | 20                 | Blended workshop / lecture format to a cohort |
+| IPRO 290 | Internet Project Development      | Spring 2008, 2009    | 20                 | Blended workshop / lecture format to a cohort |
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
