@@ -73,6 +73,7 @@ Publications
   
 Teaching
 ======
+Notable examples; syllabi found on the individual pages by click through.
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
