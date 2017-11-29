@@ -52,7 +52,7 @@ Work experience
 		
 * 2006 - 2007: Software Developer
 	* Bravenet Web Services
-	* Parksville, BC
+	* Duties included: Developing a new ad-serving system in Ruby on Rails, including a front end for publishers and ad-sellers. Implementing geo-targeting and designing UI for many parts of the system.
   
 Skills
 ======
