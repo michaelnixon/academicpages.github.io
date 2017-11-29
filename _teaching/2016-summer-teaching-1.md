@@ -10,4 +10,4 @@ IAT 210 is a service course taught on the main campus of SFU for non-SIAT studen
 
 I experimented with iClicker, and while it was not without its technical challenges, it also allowed me to keep up with my students' understanding and recall through the use of both summative and formative quizzes. Additionally, I facilitated small games based on iClicker interaction in order to showcase the dynamic properties of gameplay. Playing Battleship as a team lead to discussions about novel emergent properties of the game, which helped to illustrate the MDA theory (Hunicke, LeBlanc, and Zubek, 2004). 
 
-This course outline can be found [here](http://michaelnixon.github.io/files/IAT-210-Summer-2016-Syllabus-web.pdf "IAT210 Syllabus"). 
+This course outline can be found [here](http://michaelnixon.github.io/files/IAT210-Syllabus_SU16_web.pdf "IAT210 Syllabus"). 
