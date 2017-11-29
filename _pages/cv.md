@@ -61,7 +61,7 @@ Skills
 * Programming
   * Ruby on Rails
   * Python
-  * C\#
+  * C\# 
 	* Javascript
 	* HTML/CSS
 
