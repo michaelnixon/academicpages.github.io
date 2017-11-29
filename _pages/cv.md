@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download a PDF of my [link](files/Michael_Nixon_CV.pdf "CV").
+
 Education
 ======
 * B.Sc. in Computer Science, Vancouver Island University, 2004
