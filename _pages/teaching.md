@@ -41,7 +41,7 @@ I have been teaching courses as a sessional instructor and term lecturer in the 
 | IPRO 240 | Internet Scripting I              | Fall 2007, Fall 2008 | 20                 | Blended workshop / lecture format to a cohort |
 | IPRO 245 | Core Internet Technologies        | Fall 2008            | 20                 | Blended workshop / lecture format to a cohort |
 | IPRO 245 | Internet Applications Development | Spring 2008, 2009    | 20                 | Blended workshop / lecture format to a cohort |
-| IPRO 290 | Internet Project Development      | Spring 2008, 2009    | 20                 | Blended workshop / lecture format to a cohort |
+| IPRO 290 | Internet Project Development      | Spring 2008, 2009    | 20                 | Supervised projects for external clients, while providing lectures on project management, design critiques, and just-in-time technical lessons on emerging issues |
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
