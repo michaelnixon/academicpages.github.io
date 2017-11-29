@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a PDF of my [link](files/Michael_Nixon_CV.pdf "CV").
+You can also download a PDF of my [CV](https://michaelnixon.github.io/files/Michael_Nixon_CV.pdf "CV").
 
 Education
 ======
