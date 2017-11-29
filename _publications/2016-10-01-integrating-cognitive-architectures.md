@@ -3,7 +3,7 @@ title: "Integrating Cognitive Architectures into Virtual Character Design"
 collection: publications
 permalink: /publication/2016-integrating-cognitive-architectures
 excerpt: 'Integrating Cognitive Architectures into Virtual Character Design presents emerging research on virtual character artificial intelligence systems and procedures and the integration of cognitive architectures.'
-date: 2016
+date: 2016-10-01
 venue: 'IGI Global'
 paperurl: 'http://www.igi-global.com/book/integrating-cognitive-architectures-into-virtual/146983'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
