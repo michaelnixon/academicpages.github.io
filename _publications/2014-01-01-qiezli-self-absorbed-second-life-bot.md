@@ -1,5 +1,5 @@
 ---
-title: "Qiezli -- A "Self-Absorbed" Creative Virtual Agent in Second Life"
+title: 'Qiezli -- A &quot;Self-Absorbed&quot; Creative Virtual Agent in Second Life'
 collection: publications
 permalink: /publication/2014-01-01-qiezli-self-absorbed-second-life-bot
 date: 2014-01-01
