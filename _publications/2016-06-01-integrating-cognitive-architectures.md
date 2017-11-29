@@ -1,8 +1,8 @@
 ---
 title: "Integrating Cognitive Architectures into Virtual Character Design"
 collection: publications
-permalink: /publication/2016-01-01-integrating-cognitive-architectures
-date: 2016-01-01
+permalink: /publication/2016-06-01-integrating-cognitive-architectures
+date: 2016-06-01
 venue: 'IGI Global, Hersey, PA'
 paperurl: 'http://www.igi-global.com/book/integrating-cognitive-architectures-into-virtual/146983'
 citation: 'Turner, J., Nixon, M., Bernardet, U., &amp; DiPaola, S. (Eds.). (2016). Integrating Cognitive Architectures into Virtual Character Design. Hershey, PA: IGI Global.'

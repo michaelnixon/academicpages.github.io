@@ -23,17 +23,17 @@ Work experience
 * 2014 - 2015, 2017 - 2018: Term Lecturer
   * Simon Fraser University
   * School of Interactive Arts & Technology
-  * Duties included: Giving lectures, designing and evaluating assignments, supervising teaching assistants
+  * Duties included: Giving lectures, designing and evaluating student assignments, supervising teaching assistants
 
 * 2014 - 2017: Sessional Instructor
   * Simon Fraser University
   * School of Interactive Arts & Technology
-  * Duties included: Giving lectures, designing and evaluating assignments, supervising teaching assistants
+  * Duties included: Giving lectures, designing and evaluating student assignments, supervising teaching assistants
 
 * 2007 - 2009: Instructor
   * Vancouver Island University
 	* Digital Media department
-	* Duties included: Giving lectures, designing and evaluating assignments
+	* Duties included: Giving lectures, designing and evaluating student assignments
 	
 * 2009 - 2015, 2017: Teaching Assistant
 	* Simon Fraser University
