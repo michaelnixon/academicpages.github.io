@@ -14,4 +14,4 @@ Research interests:
 - Believable agents, particularly cognitive model-based approaches for control of nonverbal behaviour (e.g. social eye gaze).
 - Procedural animation character systems
 - Novel UI modalities, especially for controlling an avatar
-- Games studies
+- Game studies

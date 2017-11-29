@@ -11,41 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc. in Computer Science, Vancouver Island University, 2004
+* Diploma in Digital Media Technology, Vancouver Island University, 2006
+* M.Sc. in Interactive Arts & Technology, Simon Fraser University, 2009
+* Ph.D. in Interactive Arts & Technology, Simon Fraser University, 2017 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 - 2015, 2017 - 2018: Term Lecturer
+  * Simon Fraser University
+  * School of Interactive Arts & Technology
+  * Duties included: Giving lectures, designing and evaluating assignments, supervising teaching assistants
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - 2017: Sessional Instructor
+  * Simon Fraser University
+  * School of Interactive Arts & Technology
+  * Duties included: Giving lectures, designing and evaluating assignments, supervising teaching assistants
+
+* 2007 - 2009: Instructor
+  * Vancouver Island University
+	* Digital Media department
+	* Duties included: Giving lectures, designing and evaluating assignments
+	
+* 2009 - 2015, 2017: Teaching Assistant
+	* Simon Fraser University
+  * School of Interactive Arts & Technology
+	* Duties included: Teaching workshops on programming & essay composition, critiquing and evaluating student work
+
+* 2008, 2010 - 2014: Research Assistant
+	* Simon Fraser University
+	* School of Interactive Arts & Technology
+	* Projects include:
+		* Movement & Meaning Middleware Project / Moving Stories
+		* Attention Cuing Processes to Enhance Emotional Character Engagement in Video Games (NSERC Engage)
+		* Graphics, Animation and New Media (GRAND) NCE: Believable Characters and Stories for Games and Simulations
+		* Virtual Environment Real User Study (VERUS): Social Signaling in Virtual Worlds
+		* Creativity Assistive Tools for Games (CAT Games): Gestural and Embodied Game Interfaces Group
+		
+* 2006 - 2007: Software Developer
+	* Bravenet Web Services
+	* Parksville, BC
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Qualitative, quantitative, and mixed methods research
+* Teaching and instructional design
+* Programming
+  * Ruby on Rails
+  * Python
+  * C#
+	* Javascript
+	* HTML/CSS
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +75,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service, leadership, affiliations
 ======
-* Currently signed in to 43 different slack teams
+* 2013 – 2014, 2017: Canadian Game Studies Association (CGSA)		
+* 2013 – 2014: Digital Games Research Association (DiGRA)		
+* May 2011 – Spring 2015: President, SIAT Graduate Student Association		
+* May 2011 – Aug 2012, 2014: Ph.D. Rep., SIAT Graduate Program Committee		
+* 2010 – 2011, Spring 2015 – Summer 2015: Vice-President, SIAT Graduate Student Association		
+
