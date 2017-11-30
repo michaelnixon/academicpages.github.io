@@ -8,6 +8,6 @@ paperurl: 'http://repository.cmu.edu/etcpress/14/'
 citation: 'Tanenbaum, J., Seif El-Nasr, M., &amp; Nixon, M. (Eds.). (2014). Nonverbal Communication in Virtual Worlds: Understanding and Designing Expressive Characters. Pittsburg, PA: ETC Press.'
 ---
 
-<a href='http://repository.cmu.edu/etcpress/14/'>Download paper here</a>
+[Book info page](http://repository.cmu.edu/etcpress/14/)
 
 Recommended citation: Tanenbaum, J., Seif El-Nasr, M., & Nixon, M. (Eds.). (2014). Nonverbal Communication in Virtual Worlds: Understanding and Designing Expressive Characters. Pittsburg, PA: ETC Press. 

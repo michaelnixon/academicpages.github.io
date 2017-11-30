@@ -17,6 +17,6 @@ Digital Humanities is rapidly evolving as a significant approach to/method of te
 
 Doing Digital Humanities looks at the practicalities of how digital research and creation can enhance both learning and research and offers an approachable way into this complex, yet essential topic.
 
-<a href='https://www.routledge.com/Doing-Digital-Humanities-Practice-Training-Research/Crompton-Lane-Siemens/p/book/9781138899445'>Book info here</a>
+[Book info page](https://www.routledge.com/Doing-Digital-Humanities-Practice-Training-Research/Crompton-Lane-Siemens/p/book/9781138899445)
 
 Recommended citation: Davies, R., & Nixon, M. (2016). Digitisation Fundamentals. In R. Siemens, R. Lane, & C. Crompton (Eds.), Doing Digital Humanities: Practice, Training and Research (163-176). London, UK: Routledge. (Invited)
