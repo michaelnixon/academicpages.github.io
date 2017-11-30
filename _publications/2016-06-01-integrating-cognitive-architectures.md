@@ -7,7 +7,8 @@ venue: 'IGI Global, Hersey, PA'
 paperurl: 'http://www.igi-global.com/book/integrating-cognitive-architectures-into-virtual/146983'
 citation: 'Turner, J., Nixon, M., Bernardet, U., &amp; DiPaola, S. (Eds.). (2016). Integrating Cognitive Architectures into Virtual Character Design. Hershey, PA: IGI Global.'
 ---
+Cognitive architectures represent an umbrella term to describe ways in which the flow of thought can be engineered towards cerebral and behavioral outcomes. Cognitive Architectures are meant to provide top-down guidance, a knowledge base, interactive heuristics and concrete or fuzzy policies for which the virtual character can utilize for intelligent interaction with his/her/its situated virtual environment.
 
-<a href='http://www.igi-global.com/book/integrating-cognitive-architectures-into-virtual/146983'>Download paper here</a>
+Integrating Cognitive Architectures into Virtual Character Design presents emerging research on virtual character artificial intelligence systems and procedures and the integration of cognitive architectures. Emphasizing innovative methodologies for intelligent virtual character integration and design, this publication is an ideal reference source for graduate-level students, researchers, and professionals in the fields of artificial intelligence, gaming, and computer science.
 
 Recommended citation: Turner, J., Nixon, M., Bernardet, U., & DiPaola, S. (Eds.). (2016). Integrating Cognitive Architectures into Virtual Character Design. Hershey, PA: IGI Global. 
