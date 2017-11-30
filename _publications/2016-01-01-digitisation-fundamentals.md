@@ -10,10 +10,10 @@ excerpt: "Digital Humanities is rapidly evolving as a significant approach to/me
 ---
 Digital Humanities is rapidly evolving as a significant approach to/method of teaching, learning and research across the humanities. This is a first-stop book for people interested in getting to grips with digital humanities whether as a student or a professor. The book offers a practical guide to the area as well as offering reflection on the main objectives and processes, including:
 
-    * Accessible introductions of the basics of Digital Humanities through to more complex ideas
-    * A wide range of topics from feminist Digital Humanities, digital journal publishing, gaming, text encoding, project management and pedagogy
-    * Contextualised case studies
-    * Resources for starting Digital Humanities such as links, training materials and exercises
+* Accessible introductions of the basics of Digital Humanities through to more complex ideas
+* A wide range of topics from feminist Digital Humanities, digital journal publishing, gaming, text encoding, project management and pedagogy
+* Contextualised case studies
+* Resources for starting Digital Humanities such as links, training materials and exercises
 
 Doing Digital Humanities looks at the practicalities of how digital research and creation can enhance both learning and research and offers an approachable way into this complex, yet essential topic.
 
