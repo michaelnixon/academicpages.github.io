@@ -16,7 +16,7 @@ Education
 * B.Sc. in Computer Science, Vancouver Island University, 2004
 * Diploma in Digital Media Technology, Vancouver Island University, 2006
 * M.Sc. in Interactive Arts & Technology, Simon Fraser University, 2009
-* Ph.D. in Interactive Arts & Technology, Simon Fraser University, 2017 (expected)
+* Ph.D. in Interactive Arts & Technology, Simon Fraser University, 2017
 
 Work experience
 ======
