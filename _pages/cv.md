@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+* July 2018 - onwards: Assistant Professor, Teaching Stream
+	* University of Toronto Mississauga
+	* Institute of Communication, Culture, Information, and Technology
+	
 * 2014 - 2015, 2017 - 2018: Term Lecturer
   * Simon Fraser University
   * School of Interactive Arts & Technology
@@ -59,11 +63,11 @@ Skills
 * Qualitative, quantitative, and mixed methods research
 * Teaching and instructional design
 * Programming
+	* Javascript
+	* HTML/CSS
   * Ruby on Rails
   * Python
   * C Sharp
-	* Javascript
-	* HTML/CSS
 
 Publications
 ======
