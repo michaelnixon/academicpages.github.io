@@ -84,9 +84,8 @@ Notable examples; syllabi found on the individual pages by clicking through.
   
 Service, leadership, affiliations
 ======
+* 2019 - 2020: ICCIT Curriculum Committee
 * 2013 – 2014, 2017: Canadian Game Studies Association (CGSA)		
 * 2013 – 2014: Digital Games Research Association (DiGRA)		
-* May 2011 – Spring 2015: President, SIAT Graduate Student Association		
-* May 2011 – Aug 2012, 2014: Ph.D. Rep., SIAT Graduate Program Committee		
-* 2010 – 2011, Spring 2015 – Summer 2015: Vice-President, SIAT Graduate Student Association		
+
 
