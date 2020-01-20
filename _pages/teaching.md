@@ -28,7 +28,7 @@ I have been teaching courses as a sessional instructor and term lecturer in the 
 | CCT 261 | Information Architecture & Usability (DEM)        | Fall 2018, Fall 2019                | 100                | Weekly lectures and labs |
 | CCT 361 | Scripting for Management (DEM)                    | Fall 2019                           | 90                 | Weekly lectures and labs |
 | CCT 461 | Inside Emerging Technologies (DEM)                | Winter 2020                         | 60                 | Weekly lectures and labs |
-| CCT 483 | Play, Performance and Community Digital Games     | Winter 2020                         | 8                  | Weekly lectures          |
+| CCT 483 | Play, Performance and Community in Digital Games  | Winter 2020                         | 8                  | Weekly lectures          |
 | CCT 490 | Topics - Believable Characters and Virtual Worlds | Fall 2018                           | 12                 | Weekly lectures          |
 
 

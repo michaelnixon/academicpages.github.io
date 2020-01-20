@@ -85,6 +85,7 @@ Notable examples; syllabi found on the individual pages by clicking through.
 Service, leadership, affiliations
 ======
 * 2019 - 2020: ICCIT Curriculum Committee
+* 2018: IEEE
 * 2013 – 2014, 2017: Canadian Game Studies Association (CGSA)		
 * 2013 – 2014: Digital Games Research Association (DiGRA)		
 
