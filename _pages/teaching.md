@@ -20,6 +20,7 @@ I have been teaching courses as a sessional instructor and term lecturer in the 
 
 ## Courses
 ### Institute of Communication, Culture, Information and Technology, University of Toronto Mississauga
+
 | Course  | Course Title                                      | Terms                               | Avg. # of students | Description              |
 |---------|---------------------------------------------------|-------------------------------------|--------------------|--------------------------|
 | CCT 111 | Critical Coding                                   | Winter 2019, Fall 2019, Winter 2020 | 40                 | Weekly lectures and labs |
