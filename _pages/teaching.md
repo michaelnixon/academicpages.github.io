@@ -19,6 +19,17 @@ Through play and prompted discussion, students engaged with the material that co
 I have been teaching courses as a sessional instructor and term lecturer in the School of Interactive Arts & Technology at Simon Fraser University for the past four years. This has included two 1-year lecturer positions (one at 50% load = 4 courses, the second at 100% load = 8 courses), with the rest were delivered as sessional appointments. Mainly, I have been responsible for teaching upper division undergraduate courses in the areas of 3D animation, game design, and HCI/interface design.
 
 ## Courses
+### Institute of Communication, Culture, Information and Technology, University of Toronto Mississauga
+| Course  | Course Title                                      | Terms                               | Avg. # of students | Description              |
+|---------|---------------------------------------------------|-------------------------------------|--------------------|--------------------------|
+| CCT 111 | Critical Coding                                   | Winter 2019, Fall 2019, Winter 2020 | 40                 | Weekly lectures and labs |
+| CCT 211 | Fundamentals of User Interface Programming        | Winter 2020                         | 40                 | Weekly lectures and labs |
+| CCT 261 | Information Architecture & Usability (DEM)        | Fall 2018, Fall 2019                | 100                | Weekly lectures and labs |
+| CCT 361 | Scripting for Management (DEM)                    | Fall 2019                           | 90                 | Weekly lectures and labs |
+| CCT 461 | Inside Emerging Technologies (DEM)                | Winter 2020                         | 60                 | Weekly lectures and labs |
+| CCT 483 | Play, Performance and Community Digital Games     | Winter 2020                         | 8                  | Weekly lectures          |
+| CCT 490 | Topics - Believable Characters and Virtual Worlds | Fall 2018                           | 12                 | Weekly lectures          |
+
 
 ### School of Interactive Arts & Technology, Simon Fraser University, Sessional Instructor & Term Lecturer
 

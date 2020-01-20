@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Nixon"
 title_separator          : "-"
 name                     : &name "Michael Nixon"
-description              : &description "PhD candidate and Term Lecturer at SIAT, Simon Fraser University"
+description              : &description "Assistant Professor, Teaching Stream at University of Toronto Mississauga"
 url                      : https://michaelnixon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaelnixon.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Michael Nixon, Ph.D."
   avatar           : "Nixon-profile.jpg"
-  bio              : "Term Lecturer, School of Interactive Arts & Technology, Simon Fraser University"
-  location         : "British Columbia, Canada"
-  employer         : 
+  bio              : "Assistant Professor, Teaching Stream, ICCIT, UTM"
+  location         : "Mississauga, Canada"
+  employer         : University of Toronto Mississauga
   googlescholar    : "https://scholar.google.ca/citations?user=EoPHs48AAAAJ&hl=en"
   email            : "mnixon@gmail.com"
   uri              :
